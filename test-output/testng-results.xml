@@ -2,30 +2,30 @@
 <testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-29T01:56:54 IST" name="Suite" finished-at="2024-04-29T01:58:42 IST" duration-ms="107542">
+  <suite started-at="2024-04-29T02:06:30 IST" name="Suite" finished-at="2024-04-29T02:08:30 IST" duration-ms="120047">
     <groups>
     </groups>
-    <test started-at="2024-04-29T01:56:54 IST" name="Test" finished-at="2024-04-29T01:58:42 IST" duration-ms="107542">
+    <test started-at="2024-04-29T02:06:30 IST" name="Test" finished-at="2024-04-29T02:08:30 IST" duration-ms="120047">
       <class name="com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@5c33f1a9]" started-at="2024-04-29T01:56:54 IST" name="setUp" finished-at="2024-04-29T01:57:06 IST" duration-ms="11721" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@5c33f1a9]" started-at="2024-04-29T02:06:30 IST" name="setUp" finished-at="2024-04-29T02:06:47 IST" duration-ms="16645" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_Login_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@5c33f1a9]" started-at="2024-04-29T01:57:06 IST" name="verify_Login_Functionality" finished-at="2024-04-29T01:57:06 IST" duration-ms="243" status="PASS">
+        <test-method signature="verify_Login_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@5c33f1a9]" started-at="2024-04-29T02:06:47 IST" name="verify_Login_Functionality" finished-at="2024-04-29T02:06:47 IST" duration-ms="288" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Login_Functionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@5c33f1a9]" started-at="2024-04-29T01:57:06 IST" name="tearDown" finished-at="2024-04-29T01:57:10 IST" duration-ms="3297" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@5c33f1a9]" started-at="2024-04-29T02:06:47 IST" name="tearDown" finished-at="2024-04-29T02:06:50 IST" duration-ms="3407" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality -->
       <class name="com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@4efbca5a]" started-at="2024-04-29T01:57:30 IST" name="setUp" finished-at="2024-04-29T01:57:43 IST" duration-ms="13310" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@4efbca5a]" started-at="2024-04-29T02:07:14 IST" name="setUp" finished-at="2024-04-29T02:07:26 IST" duration-ms="12222" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_Add_Groups_Informaton_Functionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@4efbca5a]" started-at="2024-04-29T01:57:45 IST" name="verify_Add_Groups_Informaton_Functionality" data-provider="GroupInformation" finished-at="2024-04-29T01:58:18 IST" duration-ms="32755" status="FAIL">
+        <test-method signature="verify_Add_Groups_Informaton_Functionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@4efbca5a]" started-at="2024-04-29T02:07:28 IST" name="verify_Add_Groups_Informaton_Functionality" data-provider="GroupInformation" finished-at="2024-04-29T02:08:01 IST" duration-ms="32760" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -71,9 +71,9 @@ For documentation on this error, please visit: https://www.selenium.dev/document
 Build info: version: '4.18.1', revision: 'b1d3319b48'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [14b9bdd7238a14d28570a4577fd41bdc, findElement {using=xpath, value=//*[@id="v-pills-tabContent"]/div/div/div[1]/div/h2}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.91, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\AHIRES~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62416}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62416/devtoo..., se:cdpVersion: 124.0.6367.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 14b9bdd7238a14d28570a4577fd41bdc]]>
+Command: [1d47a8a82aac99d8401442993489b204, findElement {value=//*[@id="v-pills-tabContent"]/div/div/div[1]/div/h2, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.91, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\AHIRES~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62930}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62930/devtoo..., se:cdpVersion: 124.0.6367.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1d47a8a82aac99d8401442993489b204]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="v-pills-tabContent"]/div/div/div[1]/div/h2"}
@@ -82,9 +82,9 @@ For documentation on this error, please visit: https://www.selenium.dev/document
 Build info: version: '4.18.1', revision: 'b1d3319b48'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [14b9bdd7238a14d28570a4577fd41bdc, findElement {using=xpath, value=//*[@id="v-pills-tabContent"]/div/div/div[1]/div/h2}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.91, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\AHIRES~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62416}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62416/devtoo..., se:cdpVersion: 124.0.6367.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 14b9bdd7238a14d28570a4577fd41bdc
+Command: [1d47a8a82aac99d8401442993489b204, findElement {value=//*[@id="v-pills-tabContent"]/div/div/div[1]/div/h2, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.91, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\AHIRES~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62930}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62930/devtoo..., se:cdpVersion: 124.0.6367.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1d47a8a82aac99d8401442993489b204
 at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
 at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
 at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483)
@@ -136,35 +136,35 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Add_Groups_Informaton_Functionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@4efbca5a]" started-at="2024-04-29T01:58:18 IST" name="tearDown" finished-at="2024-04-29T01:58:21 IST" duration-ms="3317" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@4efbca5a]" started-at="2024-04-29T02:08:01 IST" name="tearDown" finished-at="2024-04-29T02:08:04 IST" duration-ms="3369" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality -->
       <class name="com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@6069db50]" started-at="2024-04-29T01:57:10 IST" name="setUp" finished-at="2024-04-29T01:57:22 IST" duration-ms="12585" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@6069db50]" started-at="2024-04-29T02:06:50 IST" name="setUp" finished-at="2024-04-29T02:07:06 IST" duration-ms="15436" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_Logout_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@6069db50]" started-at="2024-04-29T01:57:22 IST" name="verify_Logout_Functionality" finished-at="2024-04-29T01:57:26 IST" duration-ms="4049" status="PASS">
+        <test-method signature="verify_Logout_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@6069db50]" started-at="2024-04-29T02:07:06 IST" name="verify_Logout_Functionality" finished-at="2024-04-29T02:07:10 IST" duration-ms="4344" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Logout_Functionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@6069db50]" started-at="2024-04-29T01:57:26 IST" name="tearDown" finished-at="2024-04-29T01:57:30 IST" duration-ms="3287" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@6069db50]" started-at="2024-04-29T02:07:10 IST" name="tearDown" finished-at="2024-04-29T02:07:14 IST" duration-ms="3342" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality -->
       <class name="com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@1b7cc17c]" started-at="2024-04-29T01:58:21 IST" name="setUp" finished-at="2024-04-29T01:58:33 IST" duration-ms="12111" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@1b7cc17c]" started-at="2024-04-29T02:08:04 IST" name="setUp" finished-at="2024-04-29T02:08:19 IST" duration-ms="15163" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_Add_Group_Address_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@1b7cc17c]" started-at="2024-04-29T01:58:33 IST" name="verify_Add_Group_Address_Functionality" finished-at="2024-04-29T01:58:39 IST" duration-ms="5316" status="PASS">
+        <test-method signature="verify_Add_Group_Address_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@1b7cc17c]" started-at="2024-04-29T02:08:19 IST" name="verify_Add_Group_Address_Functionality" finished-at="2024-04-29T02:08:27 IST" duration-ms="7344" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Add_Group_Address_Functionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@1b7cc17c]" started-at="2024-04-29T01:58:39 IST" name="tearDown" finished-at="2024-04-29T01:58:42 IST" duration-ms="3303" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@1b7cc17c]" started-at="2024-04-29T02:08:27 IST" name="tearDown" finished-at="2024-04-29T02:08:30 IST" duration-ms="3355" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
