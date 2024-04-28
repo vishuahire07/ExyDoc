@@ -1,0 +1,58 @@
+2024-04-28 22:36:35,154  INFO [main] ExyDoc:46 - Browser Open
+2024-04-28 22:36:35,250  INFO [main] ExyDoc:47 - Browser Maximize
+2024-04-28 22:36:40,179  INFO [main] ExyDoc:49 - URL Open --> Went on Sign In Page
+2024-04-28 22:36:40,332  INFO [main] ExyDoc:53 - User Name Entered
+2024-04-28 22:36:40,454  INFO [main] ExyDoc:54 - User Password Entered
+2024-04-28 22:36:40,505  INFO [main] ExyDoc:55 - Tick on Remember Me Check Box
+2024-04-28 22:36:47,693  INFO [main] ExyDoc:56 - Clicked on Sign In Button
+2024-04-28 22:36:48,733  INFO [main] ExyDoc:19 - Apply the Validation
+2024-04-28 22:36:50,251  INFO [main] ExyDoc:27 - verify_Login_Functionality is Pass
+2024-04-28 22:36:53,629  INFO [main] ExyDoc:65 - Browser Closed
+2024-04-28 22:36:53,630  INFO [main] ExyDoc:66 - ***************Test End***************
+2024-04-28 22:36:54,583  INFO [main] ExyDoc:46 - Browser Open
+2024-04-28 22:36:54,663  INFO [main] ExyDoc:47 - Browser Maximize
+2024-04-28 22:36:58,682  INFO [main] ExyDoc:49 - URL Open --> Went on Sign In Page
+2024-04-28 22:36:58,899  INFO [main] ExyDoc:53 - User Name Entered
+2024-04-28 22:36:59,024  INFO [main] ExyDoc:54 - User Password Entered
+2024-04-28 22:36:59,062  INFO [main] ExyDoc:55 - Tick on Remember Me Check Box
+2024-04-28 22:37:02,512  INFO [main] ExyDoc:56 - Clicked on Sign In Button
+2024-04-28 22:37:03,820  INFO [main] ExyDoc:22 - Clicked on Profile
+2024-04-28 22:37:07,371  INFO [main] ExyDoc:24 - Clicked on Logout
+2024-04-28 22:37:08,507  INFO [main] ExyDoc:27 - Clicked on Logout
+2024-04-28 22:37:08,812  INFO [main] ExyDoc:39 - Logged Out Successfully
+2024-04-28 22:37:08,812  INFO [main] ExyDoc:40 - verify_Logout_Functionality is Passed
+2024-04-28 22:37:12,183  INFO [main] ExyDoc:65 - Browser Closed
+2024-04-28 22:37:12,183  INFO [main] ExyDoc:66 - ***************Test End***************
+2024-04-28 22:37:13,156  INFO [main] ExyDoc:46 - Browser Open
+2024-04-28 22:37:13,198  INFO [main] ExyDoc:47 - Browser Maximize
+2024-04-28 22:37:16,424  INFO [main] ExyDoc:49 - URL Open --> Went on Sign In Page
+2024-04-28 22:37:16,623  INFO [main] ExyDoc:53 - User Name Entered
+2024-04-28 22:37:16,747  INFO [main] ExyDoc:54 - User Password Entered
+2024-04-28 22:37:16,786  INFO [main] ExyDoc:55 - Tick on Remember Me Check Box
+2024-04-28 22:37:24,361  INFO [main] ExyDoc:56 - Clicked on Sign In Button
+2024-04-28 22:37:27,629  INFO [main] ExyDoc:26 - Clicked on Groups
+2024-04-28 22:37:28,090  INFO [main] ExyDoc:27 - Clicked on Add Groups
+2024-04-28 22:37:28,321  INFO [main] ExyDoc:30 - Enterd Group Name
+2024-04-28 22:37:28,551  INFO [main] ExyDoc:31 - Select Group Status
+2024-04-28 22:37:28,669  INFO [main] ExyDoc:32 - Enter Tax ID
+2024-04-28 22:37:28,805  INFO [main] ExyDoc:33 - Enter Legal Name
+2024-04-28 22:37:28,954  INFO [main] ExyDoc:34 - Enter DBA Name
+2024-04-28 22:37:29,081  INFO [main] ExyDoc:35 - Enter EHR System Name
+2024-04-28 22:37:29,204  INFO [main] ExyDoc:36 - Enter Open Date
+2024-04-28 22:37:29,332  INFO [main] ExyDoc:37 - Enter Expiration Date
+2024-04-28 22:37:29,421  INFO [main] ExyDoc:38 - Clicked on Save Button
+2024-04-28 22:38:03,930  INFO [main] ExyDoc:65 - Browser Closed
+2024-04-28 22:38:03,931  INFO [main] ExyDoc:66 - ***************Test End***************
+2024-04-28 22:38:04,850  INFO [main] ExyDoc:46 - Browser Open
+2024-04-28 22:38:04,985  INFO [main] ExyDoc:47 - Browser Maximize
+2024-04-28 22:38:09,108  INFO [main] ExyDoc:49 - URL Open --> Went on Sign In Page
+2024-04-28 22:38:09,349  INFO [main] ExyDoc:53 - User Name Entered
+2024-04-28 22:38:09,499  INFO [main] ExyDoc:54 - User Password Entered
+2024-04-28 22:38:09,541  INFO [main] ExyDoc:55 - Tick on Remember Me Check Box
+2024-04-28 22:38:14,075  INFO [main] ExyDoc:56 - Clicked on Sign In Button
+2024-04-28 22:38:15,373  INFO [main] ExyDoc:21 - Clicked on Groups
+2024-04-28 22:38:15,870  INFO [main] ExyDoc:22 - Clicked on Group Nmae
+2024-04-28 22:38:20,028  INFO [main] ExyDoc:42 - Group Address Entered
+2024-04-28 22:38:20,109  INFO [main] ExyDoc:43 - clicked on Save Button
+2024-04-28 22:38:26,758  INFO [main] ExyDoc:65 - Browser Closed
+2024-04-28 22:38:26,758  INFO [main] ExyDoc:66 - ***************Test End***************
