@@ -54,7 +54,7 @@ public class TestBase {
 	  login.enterUserPassword(prop.getProperty("userPassword")); log.info("User Password Entered");
 	  login.click_On_RememberMe_CheckBox();log.info("Tick on Remember Me Check Box");
 	  login.clickOnSignInBtn(); log.info("Clicked on Sign In Button");
-	  Thread.sleep(1000);
+	  Thread.sleep(3000);
 		  
   }
   
