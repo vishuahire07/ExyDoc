@@ -56,3 +56,63 @@
 2024-04-29 02:08:27,201  INFO [main] ExyDoc:44 - clicked on Save Button
 2024-04-29 02:08:30,556  INFO [main] ExyDoc:65 - Browser Closed
 2024-04-29 02:08:30,556  INFO [main] ExyDoc:66 - ***************Test End***************
+2024-04-29 12:10:56,077  INFO [main] ExyDoc:46 - Browser Open
+2024-04-29 12:10:56,227  INFO [main] ExyDoc:47 - Browser Maximize
+2024-04-29 12:10:58,377  INFO [main] ExyDoc:49 - URL Open --> Went on Sign In Page
+2024-04-29 12:10:58,928  INFO [main] ExyDoc:53 - User Name Entered
+2024-04-29 12:10:59,251  INFO [main] ExyDoc:54 - User Password Entered
+2024-04-29 12:10:59,375  INFO [main] ExyDoc:55 - Tick on Remember Me Check Box
+2024-04-29 12:11:01,373  INFO [main] ExyDoc:56 - Clicked on Sign In Button
+2024-04-29 12:11:04,423  INFO [main] ExyDoc:19 - Apply the Validation
+2024-04-29 12:11:04,654  INFO [main] ExyDoc:27 - verify_Login_Functionality is Pass
+2024-04-29 12:11:08,126  INFO [main] ExyDoc:65 - Browser Closed
+2024-04-29 12:11:08,127  INFO [main] ExyDoc:66 - ***************Test End***************
+2024-04-29 12:11:10,638  INFO [main] ExyDoc:46 - Browser Open
+2024-04-29 12:11:10,773  INFO [main] ExyDoc:47 - Browser Maximize
+2024-04-29 12:11:13,289  INFO [main] ExyDoc:49 - URL Open --> Went on Sign In Page
+2024-04-29 12:11:13,619  INFO [main] ExyDoc:53 - User Name Entered
+2024-04-29 12:11:13,940  INFO [main] ExyDoc:54 - User Password Entered
+2024-04-29 12:11:14,069  INFO [main] ExyDoc:55 - Tick on Remember Me Check Box
+2024-04-29 12:11:16,042  INFO [main] ExyDoc:56 - Clicked on Sign In Button
+2024-04-29 12:11:19,247  INFO [main] ExyDoc:22 - Clicked on Profile
+2024-04-29 12:11:21,929  INFO [main] ExyDoc:24 - Clicked on Logout
+2024-04-29 12:11:23,614  INFO [main] ExyDoc:27 - Clicked on Logout
+2024-04-29 12:11:24,120  INFO [main] ExyDoc:39 - Logged Out Successfully
+2024-04-29 12:11:24,121  INFO [main] ExyDoc:40 - verify_Logout_Functionality is Passed
+2024-04-29 12:11:27,619  INFO [main] ExyDoc:65 - Browser Closed
+2024-04-29 12:11:27,620  INFO [main] ExyDoc:66 - ***************Test End***************
+2024-04-29 12:11:29,957  INFO [main] ExyDoc:46 - Browser Open
+2024-04-29 12:11:30,093  INFO [main] ExyDoc:47 - Browser Maximize
+2024-04-29 12:11:32,487  INFO [main] ExyDoc:49 - URL Open --> Went on Sign In Page
+2024-04-29 12:11:32,786  INFO [main] ExyDoc:53 - User Name Entered
+2024-04-29 12:11:33,076  INFO [main] ExyDoc:54 - User Password Entered
+2024-04-29 12:11:33,191  INFO [main] ExyDoc:55 - Tick on Remember Me Check Box
+2024-04-29 12:11:35,044  INFO [main] ExyDoc:56 - Clicked on Sign In Button
+2024-04-29 12:11:42,227  INFO [main] ExyDoc:26 - Clicked on Groups
+2024-04-29 12:11:42,694  INFO [main] ExyDoc:27 - Clicked on Add Groups
+2024-04-29 12:11:43,311  INFO [main] ExyDoc:30 - Enterd Group Name
+2024-04-29 12:11:43,657  INFO [main] ExyDoc:31 - Select Group Status
+2024-04-29 12:11:43,957  INFO [main] ExyDoc:32 - Enter Tax ID
+2024-04-29 12:11:44,306  INFO [main] ExyDoc:33 - Enter Legal Name
+2024-04-29 12:11:44,651  INFO [main] ExyDoc:34 - Enter DBA Name
+2024-04-29 12:11:44,998  INFO [main] ExyDoc:35 - Enter EHR System Name
+2024-04-29 12:11:45,349  INFO [main] ExyDoc:36 - Enter Open Date
+2024-04-29 12:11:45,854  INFO [main] ExyDoc:37 - Enter Expiration Date
+2024-04-29 12:11:46,590  INFO [main] ExyDoc:38 - Clicked on Save Button
+2024-04-29 12:11:47,700  INFO [main] ExyDoc:47 - Group Added Successfully
+2024-04-29 12:11:47,980  INFO [main] ExyDoc:49 - TC002_Verify_Add_Groups_Functionality is Pass
+2024-04-29 12:11:51,739  INFO [main] ExyDoc:65 - Browser Closed
+2024-04-29 12:11:51,740  INFO [main] ExyDoc:66 - ***************Test End***************
+2024-04-29 12:11:54,037  INFO [main] ExyDoc:46 - Browser Open
+2024-04-29 12:11:54,156  INFO [main] ExyDoc:47 - Browser Maximize
+2024-04-29 12:11:56,974  INFO [main] ExyDoc:49 - URL Open --> Went on Sign In Page
+2024-04-29 12:11:57,271  INFO [main] ExyDoc:53 - User Name Entered
+2024-04-29 12:11:57,629  INFO [main] ExyDoc:54 - User Password Entered
+2024-04-29 12:11:57,757  INFO [main] ExyDoc:55 - Tick on Remember Me Check Box
+2024-04-29 12:11:59,899  INFO [main] ExyDoc:56 - Clicked on Sign In Button
+2024-04-29 12:12:03,109  INFO [main] ExyDoc:21 - Clicked on Groups
+2024-04-29 12:12:03,432  INFO [main] ExyDoc:22 - Clicked on Group Nmae
+2024-04-29 12:12:11,057  INFO [main] ExyDoc:42 - Group Address Entered
+2024-04-29 12:12:11,291  INFO [main] ExyDoc:44 - clicked on Save Button
+2024-04-29 12:12:16,513  INFO [main] ExyDoc:65 - Browser Closed
+2024-04-29 12:12:16,514  INFO [main] ExyDoc:66 - ***************Test End***************
