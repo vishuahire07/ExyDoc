@@ -43,7 +43,6 @@ public class TC003_Verify_Logout_Functionality extends TestBase
 	  {
 		  Assert.assertFalse(false);log.info("verify_Logout_Functionality is Failed");
 	  }
-		
 	}
 	
 }

@@ -10,7 +10,8 @@ public class AddGroupPOM {
 	
 	private WebDriver driver;
 
-//WebElements
+	//WebElements
+
 	
 //Group Name
 	@FindBy(xpath="//*[@id=\"addGroupModal\"]/div/div/div[2]/div[3]/div[1]/input")
@@ -107,12 +108,12 @@ public class AddGroupPOM {
 	
 	
 	
-//Constructor	
-	public AddGroupPOM(WebDriver driver)
-	{
-		this.driver = driver;
-		PageFactory.initElements(driver, this);
-	}
-	
+	//Constructor	
+		public AddGroupPOM(WebDriver driver)
+		{
+			this.driver = driver;
+			PageFactory.initElements(driver, this);
+		}
+		
 
 }

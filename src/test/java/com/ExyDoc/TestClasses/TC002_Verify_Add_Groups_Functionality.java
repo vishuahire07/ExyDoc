@@ -17,9 +17,9 @@ import com.ExyDoc.UtilityClasses.Screenshots;
 
 public class TC002_Verify_Add_Groups_Functionality extends TestBase
 {
-    @Test(dataProvider="GroupInformation",dataProviderClass = DataProviders.class )
-	public void verify_Add_Groups_Informaton_Functionality(String GroupName, String TaxId, String LegalName, String DBAName, String EHRSystemName, String OpenDate , String ExpirationDate ) throws InterruptedException, IOException
-	{   
+	 @Test(dataProvider="GroupInformation",dataProviderClass = DataProviders.class )
+		public void verify_Add_Groups_Informaton_Functionality(String GroupName, String TaxId, String LegalName, String DBAName, String EHRSystemName, String OpenDate , String ExpirationDate ) throws InterruptedException, IOException
+		{   
 
 //Add Group Info		
 		DashboardPOM db = new DashboardPOM(driver);

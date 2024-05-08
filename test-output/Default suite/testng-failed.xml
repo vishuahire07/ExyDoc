@@ -10,6 +10,27 @@
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality -->
+      <class name="com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality">
+        <methods>
+          <include name="verify_Logout_Functionality"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality -->
+      <class name="com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality">
+        <methods>
+          <include name="setUp"/>
+          <include name="verify_Add_Groups_Informaton_Functionality" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality -->
+      <class name="com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality">
+        <methods>
+          <include name="verify_Login_Functionality"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

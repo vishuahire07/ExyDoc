@@ -2,30 +2,16 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-29T12:10:47 IST" name="Suite" finished-at="2024-04-29T12:12:16 IST" duration-ms="88527">
+  <suite started-at="2024-05-08T10:52:46 IST" name="Default suite" finished-at="2024-05-08T10:54:09 IST" duration-ms="82343">
     <groups>
     </groups>
-    <test started-at="2024-04-29T12:10:47 IST" name="Test" finished-at="2024-04-29T12:12:16 IST" duration-ms="88527">
-      <class name="com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@1aafa419]" started-at="2024-04-29T12:10:48 IST" name="setUp" finished-at="2024-04-29T12:11:04 IST" duration-ms="16329" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="verify_Login_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@1aafa419]" started-at="2024-04-29T12:11:04 IST" name="verify_Login_Functionality" finished-at="2024-04-29T12:11:04 IST" duration-ms="255" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verify_Login_Functionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@1aafa419]" started-at="2024-04-29T12:11:04 IST" name="tearDown" finished-at="2024-04-29T12:11:08 IST" duration-ms="3451" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality -->
+    <test started-at="2024-05-08T10:52:46 IST" name="Default test" finished-at="2024-05-08T10:54:09 IST" duration-ms="82343">
       <class name="com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@77888435]" started-at="2024-04-29T12:11:27 IST" name="setUp" finished-at="2024-04-29T12:11:38 IST" duration-ms="10427" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@6150c3ec]" started-at="2024-05-08T10:52:46 IST" name="setUp" finished-at="2024-05-08T10:53:06 IST" duration-ms="20061" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_Add_Groups_Informaton_Functionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@77888435]" started-at="2024-04-29T12:11:41 IST" name="verify_Add_Groups_Informaton_Functionality" data-provider="GroupInformation" finished-at="2024-04-29T12:11:47 IST" duration-ms="6046" status="PASS">
+        <test-method signature="verify_Add_Groups_Informaton_Functionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@6150c3ec]" started-at="2024-05-08T10:53:09 IST" name="verify_Add_Groups_Informaton_Functionality" data-provider="GroupInformation" finished-at="2024-05-08T10:53:14 IST" duration-ms="5144" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -66,39 +52,53 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Add_Groups_Informaton_Functionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@77888435]" started-at="2024-04-29T12:11:47 IST" name="tearDown" finished-at="2024-04-29T12:11:51 IST" duration-ms="3754" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality@6150c3ec]" started-at="2024-05-08T10:53:14 IST" name="tearDown" finished-at="2024-05-08T10:53:18 IST" duration-ms="3470" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.ExyDoc.TestClasses.TC002_Verify_Add_Groups_Functionality -->
-      <class name="com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@14cd1699]" started-at="2024-04-29T12:11:08 IST" name="setUp" finished-at="2024-04-29T12:11:19 IST" duration-ms="10912" status="PASS">
+      <class name="com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@44c03695]" started-at="2024-05-08T10:53:18 IST" name="setUp" finished-at="2024-05-08T10:53:28 IST" duration-ms="9785" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_Logout_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@14cd1699]" started-at="2024-04-29T12:11:19 IST" name="verify_Logout_Functionality" finished-at="2024-04-29T12:11:24 IST" duration-ms="5074" status="PASS">
+        <test-method signature="verify_Login_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@44c03695]" started-at="2024-05-08T10:53:28 IST" name="verify_Login_Functionality" finished-at="2024-05-08T10:53:28 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Login_Functionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality@44c03695]" started-at="2024-05-08T10:53:28 IST" name="tearDown" finished-at="2024-05-08T10:53:31 IST" duration-ms="3649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ExyDoc.TestClasses.TC001_VerifyLoginFunctionality -->
+      <class name="com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@dd05255]" started-at="2024-05-08T10:53:31 IST" name="setUp" finished-at="2024-05-08T10:53:41 IST" duration-ms="9368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_Logout_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@dd05255]" started-at="2024-05-08T10:53:41 IST" name="verify_Logout_Functionality" finished-at="2024-05-08T10:53:45 IST" duration-ms="4552" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Logout_Functionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@14cd1699]" started-at="2024-04-29T12:11:24 IST" name="tearDown" finished-at="2024-04-29T12:11:27 IST" duration-ms="3480" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality@dd05255]" started-at="2024-05-08T10:53:45 IST" name="tearDown" finished-at="2024-05-08T10:53:49 IST" duration-ms="3577" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.ExyDoc.TestClasses.TC003_Verify_Logout_Functionality -->
       <class name="com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@73a1e9a9]" started-at="2024-04-29T12:11:51 IST" name="setUp" finished-at="2024-04-29T12:12:02 IST" duration-ms="11168" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@6a78afa0]" started-at="2024-05-08T10:53:49 IST" name="setUp" finished-at="2024-05-08T10:53:58 IST" duration-ms="9324" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verify_Add_Group_Address_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@73a1e9a9]" started-at="2024-04-29T12:12:02 IST" name="verify_Add_Group_Address_Functionality" finished-at="2024-04-29T12:12:11 IST" duration-ms="8383" status="PASS">
+        <test-method signature="verify_Add_Group_Address_Functionality()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@6a78afa0]" started-at="2024-05-08T10:53:58 IST" name="verify_Add_Group_Address_Functionality" finished-at="2024-05-08T10:54:05 IST" duration-ms="6754" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Add_Group_Address_Functionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@73a1e9a9]" started-at="2024-04-29T12:12:11 IST" name="tearDown" finished-at="2024-04-29T12:12:16 IST" duration-ms="5193" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality@6a78afa0]" started-at="2024-05-08T10:54:05 IST" name="tearDown" finished-at="2024-05-08T10:54:09 IST" duration-ms="3398" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.ExyDoc.TestClasses.TC004_Verify_Add_Group_Address_Functionality -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
